@@ -24,7 +24,7 @@ const buttonClasses = cva(
   }
 );
 
-interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement>, VariantProps<typeof buttonClasses> {
+export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement>, VariantProps<typeof buttonClasses> {
   text?: string;
   text_font_size?: string;
   text_font_family?: string;
@@ -92,7 +92,7 @@ const Button: React.FC<ButtonProps> = ({
     fontFamily: text_font_family || 'Satoshi',
     fontWeight: text_font_weight || '400',
     lineHeight: text_line_height || '27px',
-    textAlign: text_text_align as any || 'center',
+    textAlign: (text_text_align as any) || 'center',
     color: text_color || '#03030d',
     backgroundColor: fill_background_color || '#dabf67',
     borderRadius: border_border_radius || '24px',
