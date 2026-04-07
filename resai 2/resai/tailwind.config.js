@@ -76,6 +76,47 @@ module.exports = {
         "primary-02-black-01": "#1c1c1e",
         // Secondary grey for footer text
         "secondary-grey-03": "#9ca3af",
+        /* Text Colors */
+        text: {
+          primary: "var(--text-primary)",
+          secondary: "var(--text-secondary)", 
+          accent: "var(--text-accent)",
+          muted: "var(--text-muted)",
+          golden: "var(--text-golden)",
+          gray: "var(--text-gray)",
+          light: "var(--text-light)",
+          white: "var(--text-white)"
+        },
+        /* Background Colors */
+        background: {
+          main: "var(--bg-light)",
+          dark: "var(--bg-dark)",
+          golden: "var(--bg-golden)",
+          light: "var(--bg-light-golden)",
+          cream: "var(--bg-cream)",
+          white: "var(--bg-white)"
+        },
+        /* Border Colors */
+        border: {
+          primary: "var(--border-light)",
+          golden: "var(--border-golden-light)",
+          white: "var(--border-white)"
+        },
+        /* Component-specific Colors */
+        header: {
+          background: "var(--header-bg)"
+        },
+        button: {
+          primary: "var(--button-bg-primary)",
+          secondary: "var(--button-bg-secondary)",
+          text: "var(--button-text-primary)"
+        },
+        footer: {
+          background: "var(--footer-bg)"
+        },
+        star: {
+          background: "var(--star-bg)"
+        }
       },
       spacing: {
         "other-gap-3": "6px",
@@ -93,6 +134,8 @@ module.exports = {
         "buttons-button-lg": "Afacad",
         caption: "'DM Sans'",
         outfit: "Outfit",
+        'geist': ['Geist', 'sans-serif'],
+        'satoshi': ['Satoshi', 'sans-serif']
       },
       borderRadius: {
         "3xs-2": "9.2px",

@@ -17,6 +17,71 @@ body {
   *::after {
     border-width: 0;
   }
+  :root {
+    /* Primary Text Colors */
+    --text-primary: #03030d;
+    --text-secondary: #0d0c0c;
+    --text-accent: #4e3000;
+    --text-muted: #535353;
+    --text-golden: #735302;
+    --text-gray: #7b7b7b;
+    --text-light-gray: #959ca2;
+    --text-pale-gray: #b8b8b8;
+    --text-light: #c8c8c8;
+    --text-soft: #d2d7d9;
+    --text-lighter: #dfdfdf;
+    --text-lightest: #ededed;
+    --text-white: #ffffff;
+
+    /* Background Colors */
+    --bg-dark: #0d0c0c;
+    --bg-darker: #171717;
+    --bg-medium: #535353;
+    --bg-golden: #735302;
+    --bg-light-golden: #dabf67;
+    --bg-yellow: #eab308;
+    --bg-light: #f6f6f6;
+    --bg-cream: #fefce8;
+    --bg-white: #ffffff;
+    --bg-white-opacity: #ffffffe5;
+
+    /* Border Colors */
+    --border-golden-dark: #a98536;
+    --border-golden-light: #dabf67;
+    --border-light: #dfdfdf;
+    --border-white: #ffffff;
+    --border-white-opacity: #ffffff4c;
+
+    /* Component-specific Colors - Header */
+    --header-bg: var(--bg-light);
+
+    /* Component-specific Colors - Button */
+    --button-bg-primary: var(--bg-golden);
+    --button-bg-secondary: var(--bg-light-golden);
+    --button-bg-tertiary: var(--bg-medium);
+    --button-text-primary: var(--text-white);
+    --button-text-secondary: var(--text-golden);
+    --button-text-tertiary: var(--text-primary);
+
+    /* Component-specific Colors - Link */
+    --link-bg: var(--bg-light-golden);
+    --link-text-primary: var(--text-pale-gray);
+    --link-text-secondary: var(--text-light);
+
+    /* Component-specific Colors - IconButton */
+    --iconbutton-bg-primary: var(--bg-light-golden);
+    --iconbutton-bg-secondary: var(--bg-white);
+    --iconbutton-bg-tertiary: var(--bg-white-opacity);
+
+    /* Component-specific Colors - Star */
+    --star-bg: var(--bg-yellow);
+
+    /* Component-specific Colors - Footer */
+    --footer-bg: var(--bg-darker);
+
+    /* Component-specific Colors - Line */
+    --line-bg: var(--bg-white);
+  }
 }
 
 .border-neutrals-n40 {
