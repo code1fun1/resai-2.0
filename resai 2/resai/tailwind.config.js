@@ -1,0 +1,183 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        gray: {
+          "100": "#fcfdff",
+          "200": "#fafbf9",
+          "300": "rgba(0, 0, 0, 0.07)",
+          "400": "rgba(2, 2, 2, 0.05)",
+          "500": "rgba(255, 255, 255, 0.4)",
+          "600": "rgba(255, 255, 255, 0.2)",
+          "700": "rgba(250, 251, 249, 0.6)",
+          "800": "rgba(39, 40, 44, 0.02)",
+          "900": "rgba(145, 146, 149, 0.32)",
+          "1000": "rgba(0, 0, 0, 0.1)",
+          "1100": "rgba(255, 255, 255, 0.1)",
+        },
+        "neutrals-n20": "#c7c7c9",
+        "neutrals-n80": "#27282c",
+        gainsboro: "#dcdcdd",
+        "neutrals-n90": "#222327",
+        "neutral-white": "#fff",
+        "neutrals-n10": "#e2e2e3",
+        "neutrals-n40": "#919295",
+        "neutrals-n70": "#424246",
+        "system-black": "#000",
+        silver: "rgba(199, 199, 201, 0.4)",
+        "neutrals-n150": "#050506",
+        blanchedalmond: "#ffedc7",
+        "neutrals-n5": "#f7f8fb",
+        darkgoldenrod: "#c27a08",
+        "neutrals-n0": "#f6f6f6",
+        "neutrals-n60": "#5c5d61",
+        papayawhip: "#fff3db",
+        "aera-background-grey": "#f7f6fb",
+        darkslategray: "#4b4b4b",
+        "alerts-error": "#f16660",
+        mediumaquamarine: "#43daa3",
+        "alerts-warning": "#fec132",
+        whitesmoke: {
+          "100": "#f4f4f4",
+          "200": "#e9e9e9",
+        },
+        "neutrals-n50": "#787c80",
+        "system-grey3": "#c7c7cc",
+        royalblue: "#007aff",
+        dimgray: "rgba(88, 88, 90, 0.32)",
+        "neutrals-n160": "#000001",
+        lightgray: "#d3d5da",
+        "primary-16x-p60": "#3f6aff",
+        "primary-16x-p150": "#000322",
+        goldenrod: "#f7b348",
+        // Design tokens for new home page components
+        color: "#DABF67",
+        "color-2": "#4e3000",
+        "color-dark": {
+          "500": "#04040e",
+        },
+        "color-netural": {
+          white: "#ffffff",
+        },
+        "color-warning": {
+          "50": "#fff9e8",
+        },
+        "color-gray": {
+          "100": "#ebebeb",
+          "200": "rgba(255,255,255,0.6)",
+          "700": "#9ca3af",
+        },
+        p: {
+          "1": "#6b7280",
+        },
+        // Dark card background used across banner, footer, features
+        "primary-02-black-01": "#1c1c1e",
+        // Secondary grey for footer text
+        "secondary-grey-03": "#9ca3af",
+      },
+      spacing: {
+        "other-gap-3": "6px",
+        "other-gap-5": "8px",
+        "other-gap-7": "12px",
+        "other-gap-9": "18px",
+        "other-gap-11": "20px",
+        "other-gap-13": "24px",
+        "other-gap-16": "48px",
+        "other-gap-18": "64px",
+        "other-gap-18-2": "64px",
+        "other-gap-18-3": "80px",
+      },
+      fontFamily: {
+        "buttons-button-lg": "Afacad",
+        caption: "'DM Sans'",
+        outfit: "Outfit",
+      },
+      borderRadius: {
+        "3xs-2": "9.2px",
+        "5xs-8": "7.8px",
+        "9xs-1": "3.1px",
+        "11xs-9": "1.9px",
+        "21xl": "40px",
+        "2xs": "11px",
+        "2xs-9": "10.9px",
+        "xs-5": "11.5px",
+        // Design token border radii
+        "other-radius-full-corner": "999px",
+        "other-radius-xl": "16px",
+        "other-radius-xl2": "24px",
+        "other-radius-lg": "12px",
+        "other-radius-5": "5px",
+        "other-radius-4": "4px",
+      },
+    },
+    fontSize: {
+      base: "16px",
+      xl: "20px",
+      lg: "18px",
+      sm: "14px",
+      xs: "12px",
+      "2xl": "24px",
+      "3xl": "22px",
+      "4xl": "36px",
+      "5xl": "48px",
+      "6xl": "60px",
+      "7xl": "26px",
+      "9xl": "28px",
+      "13xl": "32px",
+      lgi: "19px",
+      smi: "13px",
+      "xs-5": "11.5px",
+      "9xs-7": "3.7px",
+      "21xl": "40px",
+      "24xl": "43px",
+      "39xl": "58px",
+      "50xl": "50px",
+      "53xl": "72px",
+      inherit: "inherit",
+    },
+    screens: {
+      // Standard Tailwind breakpoints (mobile-first)
+      sm: "640px",
+      md: "768px",
+      lg: "1024px",
+      xl: "1280px",
+      "2xl": "1536px",
+      // Custom breakpoints for backward compatibility
+      "max-lg": {
+        max: "1200px",
+      },
+      mq1300: {
+        raw: "screen and (max-width: 1300px)",
+      },
+      mq1100: {
+        raw: "screen and (max-width: 1100px)",
+      },
+      mq1050: {
+        raw: "screen and (max-width: 1050px)",
+      },
+      mq850: {
+        raw: "screen and (max-width: 850px)",
+      },
+      mq800: {
+        raw: "screen and (max-width: 800px)",
+      },
+      mq750: {
+        raw: "screen and (max-width: 750px)",
+      },
+      mq550: {
+        raw: "screen and (max-width: 550px)",
+      },
+      mq450: {
+        raw: "screen and (max-width: 450px)",
+      },
+      mq360: {
+        raw: "screen and (max-width: 360px)",
+      },
+    },
+  },
+  corePlugins: {
+    preflight: false,
+  },
+};

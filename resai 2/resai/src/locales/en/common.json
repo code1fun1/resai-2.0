@@ -1,0 +1,385 @@
+{
+  "validation": {
+    "firstNameRequired": "First name is required.",
+    "lastNameRequired": "Last name is required.",
+    "invalidEmail": "Invalid email.",
+    "emailRequired": "Email is required",
+    "invalidPhoneNumber": "Invalid phone number",
+    "phoneNumberRequired": "Phone number is required.",
+    "stateRequired": "State is required.",
+    "designationRequired": "Designation is required.",
+    "invalidUrl": "Invalid url.",
+    "emailExists": "Email already exists.",
+    "passwordRequired": "Password is required",
+    "countryRequired": "Country is required.",
+    "phoneNumberExists": "Phone number already exits",
+    "titleRequired": "Job Title is required",
+    "companyNameRequired": "Company Name is required",
+    "roleRequired": "Role is required",
+    "invalidEmailPhone": "Invalid Email Or Phone No.",
+    "inputRequired": "Email Or Phone No required",
+    "minimum10": "Minimum 10 digits are required"
+  },
+  "header": {
+    "Home": "Home",
+    "Features": "Features",
+    "Tutorials": "Tutorials",
+    "Pricing": "Pricing",
+    "Howitworks": "How it works",
+    "Testimonial": "Testimonial",
+    "FAQ": "FAQ",
+    "ContactUs": "Contact Us",
+    "Signupin": "Sign up"
+  },
+  "modalPricing": {
+    "Pricing": "Pricing",
+    "Completelyfree": " It’s Completely free",
+    "Todownload": "To download the resume just share on WhatsApp and Social media",
+    "Sharenow": " Share now"
+  },
+  "AiPowered": {
+    "ultimateFree": "ultimate Free",
+    "powered": "AI-powered",
+    "ResumeBuilder": "resume builder",
+    "Resumemaker": "Resume maker to generate a resume aligned with your job description",
+    "ResumeScore": "Get Your Resume Score",
+    "BuildResume": "Build Your Resume"
+  },
+  "LogoInterviewers": {
+    "Ourresumes": "Our resumes are mostly loved by interviewers at.."
+  },
+  "CraftsResume": {
+    "Welcometo": "Welcome to ResAI, your one stop platform for crafting professional resumes, cover letters, and portfolios with ease.",
+    "Ouradvanced": " Our advanced AI technology ensures a seamless experience . empowering you to showcase your skills and land your dream job. With ResAI, our online resume builder simplifying the process, offering",
+    "Betterthan": " Better than ChatGPT models for generating resumes",
+    "CraftResumeinMinutes": "Craft resume in minutes",
+    "EfficientSkillshowcasing": "Efficient skill showcasing",
+    "Highlightyourskills": "Highlight your skills effectively",
+    "SkillExtractionAlgorithm": "Skill extraction algorithm",
+    "Preciselyidentify": "Precisely identify your skills",
+    "EffortlessInformation": "Effortless information collection",
+    "AIDrivenUX": "Ai-driven ux for easy data input",
+    "NativeLanguageinputs": "Native language inputs",
+    "Inputinformation": "Input information in your native language",
+    "TailoredResumesusingAI": "Tailored resumes using ai",
+    "Customizeyourresume": "Customize your resume according to specific job descriptions",
+    "CourseRecommendations": "Course recommendations",
+    "Bridgeskillgaps": "Bridge skill gaps with tailored course suggestions"
+  },
+  "walkThroughVisual": {
+    "StillConfusing": "still having confusion?",
+    "CompletelWalkthrough": "Here’s a complete walkthrough",
+    "OurResumeBuilder": "of our resume builder"
+  },
+  "whyChooseUs": {
+    "Special": "we are special",
+    "ChooseResAi": "Why Choose ResAI?",
+    "ProfessionalTailoredResume": "Professional tailored resumes",
+    "CreateCustomisedResume": "Create customized resumes that meet  industry standards.",
+    "BridgeSkillGap": "Bridge skill gaps",
+    "WithOurGetSkill": "With our “Get Skill Course” feature get access to personalized skill courses designed to enhance your professional abilities and boost your career prospects significantly",
+    "AccesibleAndFree": "Accessible and Free",
+    "UseOurFreeTools": "Use our free tools to build your resume without any  hassle.",
+    "PersonalisedSimilarityScore": "Personalized similarity score",
+    "BoostCareer": "Boost career with personalized skill courses for professional enhancement",
+    "NativeLanguageInput": "Native language Input",
+    "HavingProblemWithEnglish": "Having problems with English? No probs! Our resume builder lets you enter your personal info in your native language and its AI interface does the rest for you, from interpreting to processing. We have it all covered."
+  },
+  "successStories": {
+    "LetsGo": "Let’s GO!!!",
+    "ResumesCrafted": "100,000+ Resumes Crafted,",
+    "CountlessSuccessStories": "Countless Success Stories.",
+    "TestimonialContent": "ResAI transformed my career journey! Thanks to this incredible platform, I landed my dream job as a Marketing Manager in Mumbai. Highly recommended!",
+    "AuthorName": "",
+    "Location": "Delhi",
+    "ViewAllReviewButton": "View All Reviews"
+  },
+  "testiMonials": [
+    {
+      "name": "Amitabh Verma",
+      "designation": "Marketing Professional",
+      "city": "Delhi",
+      "testimonial": "ResAI made the resume-building process so easy! The AI-driven interface helped me input my details in Hindi, and the tailored resume matched perfectly with the job description I was applying for. I even got job recommendations that I hadn’t thought of before!"
+    },
+    {
+      "name": "Sneha Patil",
+      "designation": "Software Engineer",
+      "city": "Pune",
+      "testimonial": "The skill extraction algorithm ResAI uses is a game-changer! It identified gaps in my skills and suggested free courses. After updating my resume and taking a couple of courses, I landed my dream job in just two weeks."
+    },
+    {
+      "name": "Rahul Shah",
+      "designation": "Financial Analyst",
+      "city": "Mumbai",
+      "testimonial": "Being able to create my resume in Gujarati was a huge relief. ResAI helped me craft a resume that was tailored to the job description I was applying for, increasing my chances of getting hired!"
+    },
+    {
+      "name": "Kavita Iyer",
+      "designation": "HR Executive",
+      "city": "Bangalore",
+      "testimonial": "I loved how ResAI gave me a similarity score comparing my resume with the job description. This feature really helped me make improvements and highlight the right skills. I secured interviews with some top companies thanks to ResAI!"
+    },
+    {
+      "name": "Ravi Kiran",
+      "designation": "Project Manager",
+      "city": "Hyderabad",
+      "testimonial": "ResAI’s job recommendations were spot on! It analyzed my resume and suggested roles I hadn’t even considered. Plus, it provided job openings from the largest global database. Truly amazing."
+    },
+    {
+      "name": "Ananya Sengupta",
+      "designation": "Data Scientist",
+      "city": "Kolkata",
+      "testimonial": "Creating a resume in Bengali and tailoring it to specific job descriptions was incredibly smooth with ResAI. The platform’s AI-driven UX made it a seamless experience. Highly recommended for job seekers!"
+    },
+    {
+      "name": "Arjun Mehta",
+      "designation": "Graphic Designer",
+      "city": "Jaipur",
+      "testimonial": "ResAI’s resume-building tool gave me exactly what I needed. The tailored resume fit the job I was applying for, and I got access to free courses to improve my design skills. My portfolio never looked this good."
+    },
+    {
+      "name": "Pooja Soni",
+      "designation": "Digital Marketer",
+      "city": "Lucknow",
+      "testimonial": "The AI skill extraction really helped me focus on areas where I needed to upskill. After taking the recommended courses, I felt much more confident, and my new resume helped me land several interviews."
+    },
+    {
+      "name": "Vikas Bhardwaj",
+      "designation": "Operations Manager",
+      "city": "Gurgaon",
+      "testimonial": "ResAI’s ability to recommend jobs based on my resume and skill set was fantastic. The similarity score feature also helped me optimize my resume to match exactly what recruiters were looking for."
+    },
+    {
+      "name": "Shruti Deshmukh",
+      "designation": "UI/UX Designer",
+      "city": "Nashik",
+      "testimonial": "Being able to input my details in Marathi made the process feel so personal. The AI system built a resume that was not just tailored to the job description but also optimized for recruiters’ expectations."
+    },
+    {
+      "name": "Prashant Kapoor",
+      "designation": "Business Analyst",
+      "city": "Chandigarh",
+      "testimonial": "ResAI’s AI-driven resume builder helped me align my resume perfectly with the job description. The personalized job recommendations were a huge plus, and I got interview calls from companies I didn’t expect."
+    },
+    {
+      "name": "Meera Joshi",
+      "designation": "Content Writer",
+      "city": "Indore",
+      "testimonial": "I struggled to find the right format for my resume, but ResAI not only created a perfectly structured one but also provided job recommendations based on my skills. The skill gap analysis and free courses were a bonus."
+    },
+    {
+      "name": "Gaurav Reddy",
+      "designation": "Mechanical Engineer",
+      "city": "Vijayawada",
+      "testimonial": "What I loved about ResAI is how it analyzed my current resume and provided suggestions that were specific to the job I was applying for. Plus, the free courses helped me fill in the gaps and make my profile stronger."
+    },
+    {
+      "name": "Swati Pandey",
+      "designation": "Sales Manager",
+      "city": "Bhopal",
+      "testimonial": "ResAI’s ability to tailor resumes to specific job descriptions is simply fantastic! It also provided job recommendations, and the multi-language input feature made it easy for my brother, who speaks primarily Hindi, to use."
+    },
+    {
+      "name": "Nitin Nair",
+      "designation": "IT Consultant",
+      "city": "Thiruvananthapuram",
+      "testimonial": "I was amazed by the resume similarity score feature. It really helped me ensure my resume matched the job description I was applying for. The free skill-building courses also helped me stay updated and relevant in the market."
+    }
+  ],
+  "frameComponentsNine": {
+    "EasySteps": "4 EASY STEPS",
+    "HowItWork": "How It Works?",
+    "UploadYourInformation": "Upload Your Information",
+    "UploadExistingResume": "Upload your existing resume or enter your details  using our AI-powered intuitive interface.",
+    "AiEnhancement": "AI Enhancement",
+    "LetAiAlgorithm": "Let our AI algorithm enhance your resume, highlighting key  skills and experiences.",
+    "Customisation": "Customization",
+    "TailoredYourResume": "Tailor your resume to fit the job description",
+    "Download": "Download",
+    "DownloadProfessionalyCrafted": "Download your professionally crafted resume and start applying for jobs.",
+    "CreateResumeButton": "Create Resume"
+  },
+  "faqs": {
+    "FaqTitle": "FAQ",
+    "AnswerFrequently": "Answers to frequently",
+    "AskedQuestion": "Asked Questions",
+    "QuestionOne": "How does ResAI customize resumes for different industries?",
+    "AnswerOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+    "QuestionTwo": " Is ResAI compatible with all devices and browsers?",
+    "AnswerTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+    "QuestionThree": "Can I download my resume in multiple formats?",
+    "AnswerThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+    "QuestionFour": "Does ResAI offer any guidance or tips for resumes?",
+    "AnswerFour": "Absolutely! ResAI provides AI assistance for crafting resumes and offers expert guidance based on extensive knowledge,ensuring your resume shines.",
+    "QuestionFive": "Is my personal data secure with ResAI?",
+    "AnswerFive": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget."
+  },
+  "faqsQuesAnswer": [
+    {
+      "question": "What is ResAI?",
+      "answer": "ResAI is an advanced AI-powered platform designed to help you create professional, tailored resumes, cover letters, and portfolios. Our platform leverages AI-driven user experiences (UX) to simplify the information collection process, allowing users to input data in their native language. Additionally, ResAI uses an innovative Skill Extraction Algorithm to identify and highlight relevant skills, recommends courses to bridge skill gaps, and customizes resumes according to specific job descriptions, making it a comprehensive tool for career success."
+    },
+    {
+      "question": "How does ResAI collect and process my information?",
+      "answer": "ResAI streamlines the information collection process using AI-driven UX, which guides you step-by-step to ensure all essential details are included. You can input your information directly into the platform in your preferred language, and our AI will automatically process it, extracting key details, identifying relevant skills, and structuring your resume in a professional format."
+    },
+    {
+      "question": "How does ResAI support multiple languages?",
+      "answer": "Our platform is designed to break down language barriers by allowing you to input your resume information in your native language. ResAI’s AI technology then processes this information, translating it as needed and ensuring that the final resume is presented in a polished and professional format in the language of your choice."
+    },
+    {
+      "question": "What is the Skill Extraction Algorithm, and how does it benefit me?",
+      "answer": "The Skill Extraction Algorithm is one of ResAI’s core features. It scans your inputted data—such as your work experience, education, and certifications—and automatically identifies and highlights the most relevant skills. This ensures that your resume accurately reflects your strengths, increasing the likelihood of catching the attention of potential employers and passing through Applicant Tracking Systems (ATS)."
+    },
+    {
+      "question": "How does ResAI tailor my resume to a specific job description?",
+      "answer": "When you upload a job description, ResAI’s AI compares the requirements of the job with the information in your resume. It then adjusts your resume to emphasize the skills, experiences, and keywords that match the job description, thereby increasing your chances of being shortlisted for an interview. This tailoring process ensures that your resume is both targeted and relevant, making you a stronger candidate."
+    },
+    {
+      "question": "Can ResAI help me if I’m switching careers?",
+      "answer": "Yes, ResAI is particularly useful for career switchers. The platform can help you identify transferable skills from your previous roles and emphasize them in your resume. Additionally, our course recommendations feature can suggest educational opportunities that will help you acquire the necessary skills for your new career path."
+    },
+    {
+      "question": "What are course recommendations, and how are they determined?",
+      "answer": "ResAI’s course recommendation feature analyzes the skills listed in your resume and compares them with the demands of your desired job or industry. If the AI detects any skill gaps, it suggests courses or certifications that can help you acquire the necessary expertise. These recommendations are personalized based on your career goals and the job market, ensuring you remain competitive."
+    },
+    {
+      "question": "How secure is my data on ResAI?",
+      "answer": "At ResAI, data security is a top priority. We use advanced encryption methods to protect your personal information and adhere to stringent data protection standards. Our platform is designed to ensure that your data is safe, confidential, and only accessible by you. Additionally, we regularly update our security protocols to guard against any potential threats."
+    },
+    {
+      "question": "Can I customize the templates provided by ResAI?",
+      "answer": "Yes, ResAI offers a variety of customizable templates. Once your resume is generated, you can choose from different design templates and adjust the layout, font, and color scheme to match your personal style or industry standards. This customization ensures that your resume not only meets professional expectations but also stands out visually."
+    },
+    {
+      "question": "Can I create multiple versions of my resume?",
+      "answer": "Absolutely! ResAI allows you to create and save multiple versions of your resume, each tailored to different job applications. This feature is particularly useful if you’re applying to roles that require different skill sets or if you want to highlight various aspects of your experience for different industries."
+    },
+    {
+      "question": "How do I make edits to my resume, cover letter, or portfolio after they’ve been generated?",
+      "answer": "Once your documents are generated, ResAI provides an intuitive editor that allows you to make changes and fine-tune your resume, cover letter, or portfolio. You can edit text, rearrange sections, add new information, or make any other adjustments necessary to perfect your documents."
+    },
+    {
+      "question": "What if I find bugs or issues while using ResAI?",
+      "answer": "If you encounter any bugs or issues while using ResAI, please don’t hesitate to contact our support team. You can reach us through the contact form on our website or by emailing us at support@resai.com. We’re committed to improving our platform continuously, and your feedback is invaluable in helping us achieve this."
+    },
+    {
+      "question": "How much does it cost to use ResAI?",
+      "answer": "ResAI offers various pricing plans to accommodate different needs and budgets. We have a free plan that provides basic resume-building features, as well as premium plans that offer advanced features such as AI-driven tailoring, course recommendations, and customizable templates. Visit our pricing page for detailed information on what’s included in each plan."
+    },
+    {
+      "question": "What is included in the premium plans?",
+      "answer": "Our premium plans offer enhanced features designed to maximize your chances of landing a job. These include AI-driven resume tailoring based on job descriptions, advanced skill extraction, personalized course recommendations, access to a wider variety of professional templates, and priority customer support. Premium users also get unlimited document storage and the ability to create multiple versions of their resumes."
+    },
+    {
+      "question": "Is ResAI suitable for all industries and career levels?",
+      "answer": "Yes, ResAI is designed to cater to professionals across all industries and career levels, from entry-level positions to executive roles. The platform’s AI is adaptable and can generate resumes that highlight the most relevant experiences and skills, whether you’re just starting out or looking to advance in your career."
+    },
+    {
+      "question": "How does ResAI help with cover letters and portfolios?",
+      "answer": "ResAI’s AI can generate personalized cover letters by analyzing the job description and your resume to create a cohesive narrative that aligns with your application. For portfolios, ResAI helps organize your work, showcase your achievements, and present your projects in a professional manner. This ensures that all aspects of your application are polished and compelling."
+    },
+    {
+      "question": "Can ResAI help with LinkedIn profile optimization?",
+      "answer": "Yes, in addition to creating resumes and cover letters, ResAI can provide suggestions for optimizing your LinkedIn profile. This includes recommendations for your headline, summary, work experience, and skills sections to ensure that your profile is consistent with your resume and attractive to potential employers."
+    },
+    {
+      "question": "How do I get started with ResAI?",
+      "answer": "Getting started with ResAI is simple. Sign up on our website, choose the type of document you want to create (resume, cover letter, or portfolio), and follow the guided process. Our AI will assist you at every step, ensuring you have a professional and polished final product ready for your job applications."
+    },
+    {
+      "question": "Can I integrate ResAI with other job application platforms?",
+      "answer": "ResAI is designed to be flexible and compatible with various job application platforms. You can easily export your resume, cover letter, or portfolio in different formats (such as PDF or Word) and upload them directly to job boards, company websites, or LinkedIn."
+    },
+    {
+      "question": "How often does ResAI update its features?",
+      "answer": "We are constantly working to improve ResAI by adding new features, updating existing ones, and enhancing the user experience. Regular updates ensure that our platform remains at the cutting edge of resume-building technology and continues to meet the evolving needs of job seekers."
+    }
+  ],
+  "chooseTemplate": {
+    "ChooseYourTemplates": "Choose your template",
+    "CraftResume": "Craft Resume in Minutes",
+    "Impress": "& Impress!",
+    "CreateResumeButton": "Create Resume",
+    "ResumeTemplateOne": "College Resume Template",
+    "ResumeTemplateColumnOne": "2 Column Layout",
+    "ResumeTemplateTwo": "College Resume Template",
+    "ResumeTemplateColumnTwo": "2 Column Layout",
+    "ResumeTemplateThree": "College Resume Template",
+    "ResumeTemplateColumnThree": "2 Column Layout",
+    "ResumeTemplateFour": "College Resume Template",
+    "ResumeTemplateColumnFour": "2 Column Layout"
+  },
+  "logoFooterTop": {
+    "NeedResumeWriter": "Do you need a resume writer? Contact us"
+  },
+  "frameComponentsThirteen": {
+    "AIPoweredResumeBuilder": "Our AI-Powered Resume Builder, Helps you create, Standout resume aligned with your job description",
+    "WantToTalkUs": "Want to talk to us?",
+    "ShareFieldPlaceholderName": "Share your Phone number",
+    "ShareButtonName": "Share",
+    "ShareSuccess": "Success",
+    "ShareSuccessMessage": "Thanks for sharing",
+    "ShareError": "Error",
+    "ShareErrorMessage": "Oops, error occurred. Please try again later.",
+    "MessageOnWhatsapp": "Message on WhatsApp",
+    "FeelfreeToGetInTouch": "Feel free to get in touch",
+    "ContactUsSuccess": "Success",
+    "ContactUsSuccessMessage": "Your message has been sent. Thank you!",
+    "ContactUsError": "Error",
+    "ContactUsErrorMessage": "Error in form submission",
+    "NameLabel": "Name",
+    "EmailLabel": "Email",
+    "MobileLabel": "Reach out to us on WhatsApp",
+    "MessageLabel": "Message",
+    "SendButtonName": "Send",
+    "NamePlaceholderName": "Full Name",
+    "EmailPlaceholderName": "Your Email",
+    "MobilePlaceholderName": "Please enter your mobile number",
+    "MessagePlaceholderName": "Type the message...",
+    "ToEmailRequired": "Email is required",
+    "ToEmailValid": "This must be a valid email",
+    "NameRequired": "Name is required",
+    "NameMin4": "Name must be at least four characters",
+    "EmailRequired": "Email is required",
+    "EmailValid": "This must be a valid email",
+    "PhoneRequired": "Mobile number is required",
+    "PhoneMatch": "Mobile number must be a valid number",
+    "PhoneMin10": "Mobile number must be exactly 10 digits",
+    "PhoneMax10": "Mobile number must be exactly 10 digits",
+    "MessageRequired": "Message is required",
+    "MessageMin8": "The message is minimum eight characters"
+  },
+  "frameComponentsThirteenFooter": {
+    "ResumeTitle": "Resume",
+    "ResumeBuilder": "Resume Builder",
+    "ResumeTemplates": "Resume Templates",
+    "ResumeFormats": "Resume Formats",
+    "ResumeProfessionalWriter": "Professional Resume Writers",
+    "CoverLetterTitle": "Cover Letter",
+    "WhatIsCoverLetter": "What is a cover letter",
+    "CoverLetterTemplates": "Cover Letter Templates",
+    "CoverLetterFormats": "Cover Letter Formats",
+    "HowToWriteCoverLetter": "How to write a Cover Letter",
+    "Support": "Support",
+    "About": "About Us",
+    "Contact": "Contact",
+    "TermCondition": "Terms & Conditions",
+    "PrivacyPolicy": "Privacy Policy",
+    "Resources": "resources",
+    "Blog": "Blog",
+    "JobInterviewGuides": "Job Interview Guides",
+    "JobInterviewQuestions": "Job Interview Questions",
+    "CareerResources": "Career Resources",
+    "CopyRightText": "Copyright",
+    "refundpolicy": "Refund policy"
+  },
+  "videoModal": {
+    "VideoTitle": "Tutorial Video",
+    "CompleteWalkthrough": "Here’s a complete walkthrough of our resume builder"
+  },
+  "groupComponentOne": {
+    "ReadMore": "Read More",
+    "ReadLess": "Read Less"
+  }
+}

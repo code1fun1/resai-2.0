@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geist:ital,wght@0,400;0,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Afacad:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply leading-[normal] m-0;
+}
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-width: 0;
+  }
+}
+
+.border-neutrals-n40 {
+  --tw-border-opacity: 0.35;
+}
+
+.SuccessStoriesSection .slick-next:before {
+  content: '';
+}
+.SuccessStoriesSection .slick-prev:before {
+  content: '';
+}
+.SuccessStoriesSection .slick-list { margin: 0 -5px; }
+.SuccessStoriesSection .slick-slide > div { padding: 0 5px; }
+
+.ChooseTemplate .slick-list { margin: 0 -5px; }
+.ChooseTemplate .slick-slide > div { padding: 0 5px; }
+.HeaderoginBtn a { color: white; text-decoration: none; }
+
+.FaqAccordion .MuiAccordion-root::before {
+  content: none !important;
+}
+
+.phone-search-field input {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  color: #919295;
+  text-transform: capitalize;
+  font-family: "Afacad";
+  opacity: 1;
+  padding-left: 24px;
+}
+.phone-search-field input::placeholder {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  color: #919295;
+  text-transform: capitalize;
+  font-family: "Afacad";
+  opacity: 1;
+}
+
+@media (max-width: 450px) {
+  .logo-interviwers-slider .slick-dots li {
+    width: 6px !important;
+  }
+  .logo-interviwers-slider .slick-dots li button:before {
+    font-size: 10px;
+    color: #EEEEF0;
+  }
+  .logo-interviwers-slider .slick-dots li.slick-active button:before {
+    color: #F7B348;
+  }
+}
+@media (max-width: 750px) {
+  .slick-prev {
+    left: -9px;
+    z-index: 1;
+    top: 56%;
+  }
+  .slick-next {
+    right: -2px;
+    top: 56%;
+  }
+}
+@media (max-width: 450px) {
+  .ChooseTemplate .slick-dots li {
+    width: 6px !important;
+  }
+  .ChooseTemplate .slick-dots li button:before {
+    font-size: 10px;
+  }
+}
